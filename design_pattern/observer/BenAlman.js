@@ -13,7 +13,11 @@
             $( "#ratingsTemplate" ).tmpl( movieList[movieList.length - 1] ).appendTo( "#ratings" ); }
     });
     $('#add').on('click', function(){
-        var strUser = $("#twitter_handle").val(), strMovie = $("#movie_seen").val(), strRating = $("#movie_rating").val();
+        var strUser = $("#twitter_handle").val(),
+            strMovie = $("#movie_seen").val(),
+            strRating = $("#movie_rating").val();
+        alert(1);
 // publishers
-        $.publish('/new/user', strUser ); $.publish('/new/rating', [ strMovie, strRating] );
+        $.publish('/new/user', strUser );
+        $.publish('/new/rating', [ strMovie, strRating] );
     }); })(jQuery);

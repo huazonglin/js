@@ -3,31 +3,60 @@
 <head>
     <title></title>
 </head>
+<script src="jquery-1.9.1.min.js"></script>
+<script src="jquery.tmplPlus.min.js"></script>
+<script src="BenAlman.js"></script>
+
+
 <body>
-<script id="userTemplate" type="text/x-jquery-tmpl"> <li>${user}</li>
+
+
+This is a jquery temlplus example, but cannot make it work.
+is it link https://github.com/BorisMoore/jquery-tmpl ?
+
+<script id="userTemplate" type="text/x-jquery-tmpl">
+
+ <li>${user}</li>
+
+
 </script>
-<script id="ratingsTemplate" type="text/x-jquery-tmpl"> <li><strong>${movie}</strong> was rated ${rating}/5</li>
+
+<script id="ratingsTemplate" type="text/x-jquery-tmpl">
+ <li><strong>${movie}</strong> was rated ${rating}/5</li>
+
+
 </script>
 <div id="container">
     <div class="sampleForm">
         <p>
             <label for="twitter_handle">Twitter handle:</label>
-            <input type="text" id="twitter_handle" /> </p>
+            <input type="text" id="twitter_handle"/></p>
+
         <p>
             <label for="movie_seen">Name a movie you've seen this year:</label>
-            <input type="text" id="movie_seen" /> </p>
+            <input type="text" id="movie_seen"/>
+        </p>
+
         <p>
-            </select> </p>
+            <label for="movie_rating">Rate the movie you saw:</label>
+            <select id="movie_rating">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5" ected>5</option>
+
+            </select>
+        </p>
         <p>
-            <button id="add">Submit rating</button> </p>
+            <button id="add">Submit rating</button>
+        </p>
     </div>
     <div class="summaryTable">
-        <label for="movie_rating">Rate the movie you saw:</label> <select id="movie_rating">
-        <option value="1">1</option> <option value="2">2</option> <option value="3">3</option> <option value="4">4</option> <option value="5"ected>5</option>
-        ￼￼The Observer Pattern
-        | 45
+
         <div id="users"><h3>Recent users</h3></div>
-        <div id="ratings"><h3>Recent movies rated</h3></div> </div>
+        <div id="ratings"><h3>Recent movies rated</h3></div>
+    </div>
 </div>
 </body>
 </html>
