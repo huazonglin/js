@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a856ebb3-c4f7-4bec-8b07-f537c59ba5cd" name="Default" comment="" />
-    <ignored path="observer.iws" />
+    <list default="true" id="a96097f9-8def-4876-8f88-578a6116b576" name="Default" comment="" />
+    <ignored path="mediator.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,35 +19,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="observer" />
+    <favorites_list name="mediator" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BenAlman.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BenAlman.html">
+      <file leaf-file-name="mediator.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mediator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="33" selection-start="206" selection-end="229" vertical-scroll-proportion="0.31810766" vertical-offset="0" max-vertical-offset="1005">
+            <state line="85" column="1" selection-start="2056" selection-end="2056" vertical-scroll-proportion="0.8826291" vertical-offset="711" max-vertical-offset="1395">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BenAlman.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BenAlman.js">
+      <file leaf-file-name="mediator.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mediator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="55" column="13" selection-start="1488" selection-end="1488" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="915">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.tmplPlus.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery.tmplPlus.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="1278" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -62,12 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/sample_pub_sub.html" />
-        <option value="$PROJECT_DIR$/jquery-1.9.1.min.js" />
-        <option value="$PROJECT_DIR$/BenAlman.js" />
-        <option value="$PROJECT_DIR$/sample_pub_sub.js" />
-        <option value="$PROJECT_DIR$/jquery.tmplPlus.min.js" />
-        <option value="$PROJECT_DIR$/BenAlman.html" />
+        <option value="$PROJECT_DIR$/mediator.js" />
+        <option value="$PROJECT_DIR$/mediator.html" />
       </list>
     </option>
   </component>
@@ -108,17 +93,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="observer" />
+              <option name="myItemId" value="mediator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="observer" />
+              <option name="myItemId" value="mediator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="observer" />
+              <option name="myItemId" value="mediator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -129,9 +114,6 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
-    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -175,9 +157,9 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a856ebb3-c4f7-4bec-8b07-f537c59ba5cd" name="Default" comment="" />
-      <created>1391587908163</created>
-      <updated>1391587908163</updated>
+      <changelist id="a96097f9-8def-4876-8f88-578a6116b576" name="Default" comment="" />
+      <created>1391654487622</created>
+      <updated>1391654487622</updated>
     </task>
     <servers />
   </component>
@@ -214,48 +196,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sample_pub_sub.html">
+    <entry file="file://$PROJECT_DIR$/mediator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="34" selection-start="84" selection-end="84" vertical-scroll-proportion="0.097402595" vertical-offset="0" max-vertical-offset="616">
+        <state line="55" column="13" selection-start="1488" selection-end="1488" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample_pub_sub.js">
+    <entry file="file://$PROJECT_DIR$/mediator.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.33333334" vertical-offset="109" max-vertical-offset="2175">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BenAlman.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery.tmplPlus.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1278" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-1.9.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="48" selection-start="1733" selection-end="1733" vertical-scroll-proportion="0.33333334" vertical-offset="677" max-vertical-offset="144030">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BenAlman.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="206" selection-end="229" vertical-scroll-proportion="0.31810766" vertical-offset="0" max-vertical-offset="1005">
+        <state line="85" column="1" selection-start="2056" selection-end="2056" vertical-scroll-proportion="0.8826291" vertical-offset="711" max-vertical-offset="1395">
           <folding />
         </state>
       </provider>
