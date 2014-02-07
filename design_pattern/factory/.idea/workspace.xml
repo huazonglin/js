@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56eeff6e-b808-4ef5-b5c2-2d0ef6ff6df3" name="Default" comment="" />
-    <ignored path="facade.iws" />
+    <list default="true" id="739f9e31-c2da-473f-963c-f70b5f2d8926" name="Default" comment="" />
+    <ignored path="factory.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +19,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="facade" />
+    <favorites_list name="factory" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="facade.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/facade.html">
+      <file leaf-file-name="factory.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/factory.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="28" selection-start="593" selection-end="596" vertical-scroll-proportion="0.58685446" vertical-offset="0" max-vertical-offset="639">
+            <state line="36" column="6" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.6103286" vertical-offset="150" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/facade.html" />
+        <option value="$PROJECT_DIR$/factory.html" />
       </list>
     </option>
   </component>
@@ -83,17 +83,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="facade" />
+              <option name="myItemId" value="factory" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="facade" />
+              <option name="myItemId" value="factory" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="facade" />
+              <option name="myItemId" value="factory" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -105,6 +105,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -148,9 +149,9 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="56eeff6e-b808-4ef5-b5c2-2d0ef6ff6df3" name="Default" comment="" />
-      <created>1391673857350</created>
-      <updated>1391673857350</updated>
+      <changelist id="739f9e31-c2da-473f-963c-f70b5f2d8926" name="Default" comment="" />
+      <created>1391674228344</created>
+      <updated>1391674228344</updated>
     </task>
     <servers />
   </component>
@@ -187,9 +188,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/facade.html">
+    <entry file="file://$PROJECT_DIR$/factory.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="28" selection-start="593" selection-end="596" vertical-scroll-proportion="0.58685446" vertical-offset="0" max-vertical-offset="639">
+        <state line="36" column="6" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.6103286" vertical-offset="150" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
